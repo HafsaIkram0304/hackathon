@@ -1,0 +1,41 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+NTUSER.DAT*
+*.lnk
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore parent directories
+../../*
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.cache
+*.lock
+
+# Ignore personal directories from screenshot
+/Documents/
+/Downloads/
+/Favorites/
+/OneDrive/
+/Pictures/
+/Videos/
+/Saved Games/
+/Searches/
