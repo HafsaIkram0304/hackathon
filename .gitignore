@@ -39,3 +39,5 @@ npm-debug.log*
 /Videos/
 /Saved Games/
 /Searches/
+.next/
+
